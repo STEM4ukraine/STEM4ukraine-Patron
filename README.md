@@ -13,3 +13,7 @@ The front of the PCB:
 The rear of the prototype PCB:
 
 ![prototype back](images/PatronReverse.jpg)
+
+The schematic:
+
+![prototype schematic](hardware/STEM4ukraine-Patron-v1.svg)
